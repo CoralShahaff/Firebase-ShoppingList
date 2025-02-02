@@ -1,0 +1,2 @@
+# Firebase-ShoppingList
+ This project simulates a shopping management application. It allows users to register with a username, password, and phone number. Users can log in with existing credentials or create a new account. After logging in, the app displays the user's name and allows them to manage a shopping cart. Users can add products to the cart, modify quantities, and remove products from the list. The app calculates the total price in real-time based on the selected products and quantities.
